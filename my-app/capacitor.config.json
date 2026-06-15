@@ -1,8 +1,6 @@
 {
-  "appId": "com.example.myapp",
-  "appName": "My App",
+  "appId": "com.tetris.app",
+  "appName": "Tetris",
   "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  }
+  "bundledWebRuntime": false
 }
